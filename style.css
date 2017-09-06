@@ -1,14 +1,7 @@
-body {
-    margin: 0;
+section.row {
+    background-color: yellow;
 }
-
-header,footer {
-    background-color: gray;
-    color: white;
-    overflow: hidden;  
-    width: 100%;
-}
-
-div#content {
-    margin: 10px;
+section.col {
+    width: 33%;
+    float: left;
 }
