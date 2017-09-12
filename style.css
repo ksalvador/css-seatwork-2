@@ -1,7 +1,60 @@
-section.row {
-    background-color: yellow;
+body {
+
+    margin: 0;
+
 }
+
+
+
+header,footer {
+
+    background-color: 5e450d ;
+
+    color: white;
+
+    overflow: hidden;  
+
+    width: 100%;
+
+}
+
+
+
+div#content {
+
+    margin: 10px;
+
+}
+
+section.row {
+
+    background-color: white;
+
+    width: 99%;
+
+}
+
 section.col {
+
     width: 33%;
+
     float: left;
+
+    background-color: brown;
+
+}
+
+section.wbbcuties{
+
+    background-image: url(http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i101/wbb_560x230.png);
+
+    height: 50%;
+
+    width: 99%;
+
+    background-position: center;
+
+    background-size: relative;
+    
+    background-repeat: no-repeat;
 }
